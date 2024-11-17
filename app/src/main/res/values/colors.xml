@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_ListView">#744B5712</color>
+    <color name="colorTextToolbar">#D60F2242</color>
+    <color name="backgroundToolbar">#6D88DC9A</color>
+    <color name="colorTextTitle">#ED5F249B</color>
+    <color name="backgroundTitleTextView">#7CC4A6E2</color>
+    <color name="colorTextTitelSeconView">#ED7A590F</color>
+    <color name="colorTextTitelThirdView">#ED542961</color>
+</resources>

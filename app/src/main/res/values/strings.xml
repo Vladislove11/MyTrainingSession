@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="toolBarTitleText">Тренировки по фитнесу</string>
+    <string name="exit">Exit</string>
+</resources>
